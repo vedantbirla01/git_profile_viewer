@@ -1,49 +1,49 @@
 # 📈 GitHub Profile Viewer
 
-Welcome to **GitHub Profile Viewer**, a sleek and intuitive web application that lets you explore GitHub user profiles with ease! This project fetches and displays detailed user information, repositories, and stats using the GitHub REST API — offering a clean and interactive experience for developers and enthusiasts alike. 🚀
+Welcome to **GitHub Profile Viewer**, a sleek and intuitive web application that lets you explore GitHub user profiles with ease! This project uses the GitHub REST API to fetch and display detailed user information, repositories, and stats — all in a fast, responsive, and elegant interface. 🚀
 
-🔗 **[Visit the Live Website](https://your-live-link.vercel.app)** <!-- Replace this link with your actual deployed URL -->
+🔗 **[Visit the Live Website](https://github-profile-viewer.vercel.app)**  
+<!-- 🔄 Replace with your actual deployed URL if different -->
 
 ---
 
 ## 🌟 Highlights
 
-- 🔄 **Dynamic Data Fetching**: Real-time GitHub profile data via GitHub API.
-- 💡 **User-Friendly Interface**: Clean, modern UI for effortless navigation.
-- 🤝 **Open Source Collaboration**: Contributions are welcome!
-- ⚡ **Fast Performance**: Optimized for smooth and fast interaction.
-- 📱 **Responsive Layout**: Works on desktops, tablets, and mobile devices.
+- 🔄 **Real-Time GitHub API**: Fetches live GitHub profile and repository data.
+- 💡 **Modern UI**: Built with React + Tailwind CSS for a clean and responsive experience.
+- ⚡ **Fast Performance**: Powered by Vite for lightning-fast builds and load time.
+- 📱 **Mobile Responsive**: Works perfectly across desktop, tablet, and mobile.
+- 🛠️ **Open Source**: Actively maintained and open to contributions!
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **Frontend**: React, HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: React, JavaScript (ES6+), HTML5, CSS3
 - **API**: GitHub REST API
 - **Styling**: Tailwind CSS
-- **Build Tools**: Vite, npm
-- **IDE**: VS Code
-- **Deployment**: Vercel
+- **Tooling**: Vite, npm, Git, VS Code
+- **Hosting**: [Vercel](https://vercel.com/)
 - **Version Control**: Git & GitHub
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Profile Search**: Enter a GitHub username to view profile.
-- 📁 **Repository Insights**: Browse user repos with stats like ⭐ and 🍴.
-- 🖱️ **Interactive UI**: Hover effects and transitions for engagement.
-- ❌ **Error Handling**: Graceful handling of invalid usernames or API limits.
-- 📱 **Responsive Design**: Seamlessly adapts to all screen sizes.
+- 🔎 **Profile Search**: Enter any GitHub username to explore their profile.
+- 📊 **Repository Insights**: View user's repositories, stars, forks, etc.
+- 💫 **Interactive UI**: Smooth transitions and hover animations.
+- ❌ **Error Handling**: Handles invalid usernames and rate-limit errors gracefully.
+- 🔄 **Real-Time Updates**: Instantly displays fetched data without reloads.
 
 ---
 
-## 🛠️ Installation
+## 💻 Installation (Local Setup)
 
-Get GitHub Profile Viewer running locally in just a few steps:
+Follow these steps to run the project locally:
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/aryansaxena978/GitHub-Profile-Viewer.git
-cd GitHub-Profile-Viewer
+
+
