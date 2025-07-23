@@ -36,14 +36,5 @@ Welcome to **GitHub Profile Viewer**, a sleek and intuitive web application that
 - ❌ **Error Handling**: Handles invalid usernames and rate-limit errors gracefully.
 - 🔄 **Real-Time Updates**: Instantly displays fetched data without reloads.
 
----
-
-## 💻 Installation (Local Setup)
-
-Follow these steps to run the project locally:
-
-### 1. Clone the Repository
-
-```bash
 
 
