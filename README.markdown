@@ -93,15 +93,11 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 Got questions or ideas? Reach out to us!
 
-- **GitHub**: [aryansaxena978](https://github.com/aryansaxena978)
-- **Email**: aryansaxena978@example.com
+- **GitHub**: [vedantbirla01](https://github.com/vedantbirla01)
+- **Email**: birlavedant901@gmail.com
 
 ---
 
 ## 🌈 Why GitHub Profile Viewer?
 
 GitHub Profile Viewer is a fun and practical tool for exploring GitHub profiles in style. Built with modern web technologies and a focus on user experience, it’s perfect for developers looking to showcase their skills or contribute to open source. Dive in and start exploring! 🌟
-
-[![GitHub Stars](https://img.shields.io/github/stars/aryansaxena978/GitHub-Profile-Viewer?style=social)](https://github.com/aryansaxena978/GitHub-Profile-Viewer/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/aryansaxena978/GitHub-Profile-Viewer?style=social)](https://github.com/aryansaxena978/GitHub-Profile-Viewer/network)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
